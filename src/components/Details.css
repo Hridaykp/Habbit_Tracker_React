@@ -1,0 +1,85 @@
+@import url("https://fonts.googleapis.com/css2?family=Kanit:wght@300&display=swap");
+.App {
+  font-family: "Kanit", sans-serif;
+  text-align: center;
+}
+
+/* navbar */
+nav{
+  background-color: rgb(90, 83, 194);
+}
+
+/* brand-styling */
+.navbar-brand{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: 700;
+  font-style: italic;
+  font-size: 1.6rem;
+}
+
+/* item in nav */
+.nav-item{
+  font-weight: 600;
+  
+}
+
+/* Title styling */
+.Title {
+  margin-top: 30px;
+  font-style: italic;
+  text-shadow: 1px 1px 5px rgb(117, 105, 105);
+}
+.subtitle {
+  margin-left: 40%;
+}
+
+/* tables styles */
+table {
+  width: 100%;
+}
+table,
+th,
+td {
+  border: 1px solid black;
+}
+
+
+.taskname {
+  width: 100%;
+  background-color: #d6eeee;
+}
+
+
+.fa-regular {
+  margin: 2%;
+  
+}
+
+.fa-brands {
+  margin: 2%;
+}
+
+table {
+  text-align: center;
+}
+
+.div {
+  width: 100%;
+  margin-right: 10%;
+}
+
+/* details styles */
+.details {
+  display: inline-block;
+  width: 100%;
+}
+
+.tableTitle{
+  font-size: large;
+
+}
+
+.copyright{
+  font-style: italic;
+  margin-left: 80%;
+}

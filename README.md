@@ -1,3 +1,38 @@
+  Habbit_Tracker_React =>
+      
+      It is a simple habbit tracker app in which we can add our daily routine's habbit and tasks .
+      
+      This appliction is build using react, react-redux, and redux-tools and hooks.
+      
+ Tech stacks -: 
+      1: JavaScripts
+      
+      2: ReactJs(front-end library)
+      
+      3: react-redux, redux-tools/ hooks
+      
+      4: css, bootstrap(css framework)
+      
+      5: github(deploy using gh-pages)
+      
+  Hosted Link:- https://hridaykp.github.io/Habbit_Tracker_React/
+ 
+                
+       
+  Preview Link:- https://user-images.githubusercontent.com/116939133/219788339-d8a9f303-e110-4159-ab28-d7d129cac3fa.mp4
+  
+  
+  Screenshots: ![Screenshot (47)](https://user-images.githubusercontent.com/116939133/219788965-d7713c71-d8f0-4096-a2ce-f04b8ccb4762.png)
+![Screenshot (48)](https://user-images.githubusercontent.com/116939133/219788969-6f31e378-048c-44f4-9b1e-2dce1b0e8dc2.png)
+![Screenshot (49)](https://user-images.githubusercontent.com/116939133/219788974-cab28e99-8cb7-4bc9-b7a9-bd0cf09007e6.png)
+![Screenshot (50)](https://user-images.githubusercontent.com/116939133/219788976-4eada76a-efc1-46dd-a760-22e95cec1b9f.png)
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
